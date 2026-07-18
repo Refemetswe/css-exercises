@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.paragraphs {
+    background-color:#f3a9b5;
+    font-family: Verdana,'DejaVu Sans', sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.samefontsize {
+    font-size: 24px;
+}
+
+#div2{
+    background-color: rgb(108, 248, 108);
+    font-weight: bold;
+}
+
